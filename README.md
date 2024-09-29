@@ -13,7 +13,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone git@github.com:posh9376/WK1-Code-Challenge.git
+Git clone git@github.com:posh9376/wk1-code-challenge.git
 
 ```
 
@@ -26,7 +26,7 @@ Github
 Javascript
 
 ## Support and contact details
-github.com/hamida-mstafa
+github.com/posh9376
 
 ### License
 The content of this site is licensed under the MIT license
